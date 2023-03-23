@@ -1,0 +1,16 @@
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.exe
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.deps.json
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.runtimeconfig.json
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.runtimeconfig.dev.json
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.dll
+D:\dotnet\DemoExample\bin\Debug\net5.0\ref\DemoExample.dll
+D:\dotnet\DemoExample\bin\Debug\net5.0\DemoExample.pdb
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.csproj.AssemblyReference.cache
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.AssemblyInfoInputs.cache
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.AssemblyInfo.cs
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.csproj.CoreCompileInputs.cache
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.dll
+D:\dotnet\DemoExample\obj\Debug\net5.0\ref\DemoExample.dll
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.pdb
+D:\dotnet\DemoExample\obj\Debug\net5.0\DemoExample.genruntimeconfig.cache

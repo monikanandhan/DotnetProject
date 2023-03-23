@@ -1,0 +1,16 @@
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.csproj.AssemblyReference.cache
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.AssemblyInfoInputs.cache
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.AssemblyInfo.cs
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.csproj.CoreCompileInputs.cache
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.exe
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.deps.json
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.runtimeconfig.json
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.runtimeconfig.dev.json
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.dll
+D:\dotnet\FileReading\bin\Debug\net5.0\ref\FileReading.dll
+D:\dotnet\FileReading\bin\Debug\net5.0\FileReading.pdb
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.dll
+D:\dotnet\FileReading\obj\Debug\net5.0\ref\FileReading.dll
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.pdb
+D:\dotnet\FileReading\obj\Debug\net5.0\FileReading.genruntimeconfig.cache
