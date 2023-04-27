@@ -16,3 +16,5 @@ D:\dotnet\FileCSVReading\obj\Debug\net5.0\FileCSVReading.pdb
 D:\dotnet\FileCSVReading\obj\Debug\net5.0\FileCSVReading.genruntimeconfig.cache
 D:\dotnet\FileCSVReading\bin\Debug\net5.0\CsvHelper.dll
 D:\dotnet\FileCSVReading\obj\Debug\net5.0\FileCSVReading.csproj.CopyComplete
+D:\DotnetProject\FileCSVReading\obj\Debug\net5.0\FileCSVReading.dll
+D:\DotnetProject\FileCSVReading\obj\Debug\net5.0\FileCSVReading.pdb

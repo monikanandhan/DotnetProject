@@ -23,12 +23,12 @@ namespace FileCSVReading
             // {
             //     Console.WriteLine(user);
             // }
-            //1.Unique cities
-            //     List<string> DemoNew = users.Select(x => x.city).Distinct().ToList();
-            //     foreach (var user in DemoNew)
-            // {
-            //     Console.WriteLine(user);
-            // }
+            1.Unique cities
+                 List<string> DemoNew = users.Select(x => x.city).Distinct().ToList();
+            foreach (var user in DemoNew)
+            {
+                Console.WriteLine(user);
+            }
             //2.Total no of cities
             // int DemoNews = users.Select(x => x.city).Distinct().Count();
             // Console.WriteLine(DemoNews);
@@ -109,16 +109,16 @@ namespace FileCSVReading
             //     try{
             // result =Double.Parse(item);
             // Console.WriteLine(result);
-           
+
             //     }
             //      catch (FormatException) {
             //     Console.WriteLine("0",
             //     item.GetType().Name, item);
-    
+
 
             // }
             // }
-          
+
 
             //10.Search my city
             // Console.WriteLine("Enter the city");
@@ -266,16 +266,16 @@ namespace FileCSVReading
             // }
 
             //19.Remove the space from City "New York" as NewYork
-                string NewDemo=users.Select(x=>x.city.StartsWith("New")).ToString();
-           
-            for (int i=0;i<NewDemo.Count();i++)
-            {
-                 Console.WriteLine(NewDemo.Split(' ').ToList());
-            }
-         
-        }
+            //        string NewDemo=users.Select(x=>x.city.StartsWith("New")).ToString();
 
-    }
+            //    for (int i=0;i<NewDemo.Count();i++)
+            //    {
+            //         Console.WriteLine(NewDemo.Split(' ').ToList());
+            //    }
+
+            //}
+
+        }
 
 
 
